@@ -1,0 +1,39 @@
+# Restaurant Data Analysis Dashboard
+
+This Power BI project showcases an interactive dashboard designed to analyze key performance metrics for a restaurant business. It provides insights into daily sales, customer behavior, product performance, and revenue trends.
+
+## 🔍 Features
+
+- Sales breakdown by item, category, and date
+- Daily, weekly, and monthly performance trends
+- Top-selling and low-performing menu items
+- Customer footfall and order frequency patterns
+- Visualizations using bar charts, pie charts, cards, and slicers
+- Built with Power Query, Data Modeling, and DAX
+
+## 📊 Tools Used
+
+- Microsoft Power BI (Desktop)
+- Power Query
+- DAX (Data Analysis Expressions)
+
+## 📁 File
+
+- `Restaurant Data Analysis Dashboard.pbix` – Power BI Dashboard file
+
+## 💡 Use Case
+
+This dashboard can be used by restaurant managers and owners to:
+- Monitor sales trends and customer preferences
+- Optimize menu offerings
+- Improve operational efficiency based on peak hours and demand
+
+## 🚀 Getting Started
+
+1. Download or clone this repository
+2. Open the `.pbix` file using Power BI Desktop
+3. Explore the dashboard and customize it as needed
+
+---
+
+Feel free to fork this project or use it as a reference for your own data analysis work.
